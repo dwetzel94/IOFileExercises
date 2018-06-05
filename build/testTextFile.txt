@@ -1,0 +1,15 @@
+your first input was: jesse is sexy and i want him
+element # 1: l
+element # 2: o
+element # 3: v
+element # 4: e
+element # 5: m
+element # 6: e
+Here's your array, nibba: l o v e m e # 10: d
+element # 11: u
+element # 12: c
+element # 13: e
+element # 14: y
+element # 15: o
+element # 16: u
+Here's your array, nibba: i l i k e t o s e d u c e y o u 

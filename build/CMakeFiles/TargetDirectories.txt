@@ -1,0 +1,7 @@
+/home/demi/projects/IOFileExercise/build/CMakeFiles/install/strip.dir
+/home/demi/projects/IOFileExercise/build/CMakeFiles/edit_cache.dir
+/home/demi/projects/IOFileExercise/build/CMakeFiles/rebuild_cache.dir
+/home/demi/projects/IOFileExercise/build/CMakeFiles/list_install_components.dir
+/home/demi/projects/IOFileExercise/build/CMakeFiles/iofileexercise.dir
+/home/demi/projects/IOFileExercise/build/CMakeFiles/install/local.dir
+/home/demi/projects/IOFileExercise/build/CMakeFiles/install.dir
